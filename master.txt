@@ -1,1 +1,3 @@
 This is my second file for intro to front-end development.
+
+Made some more changes.
